@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: lightblue;
+}
+header {
+    text-align: center;
+    padding: 10px;
+    background-color: chocolate;
+}
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+section {
+    margin: 20px;
+
+}
+.project {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    background: lightyellow;
+
+}
+h1 , h2 {
+    color: black;
+}
+#bio , #Work {
+    background: lightskyblue;
+    padding: 15px;
+
+}
+footer{
+    background: lightskyblue;
+    text-align: center;
+    padding: 10px;
+}
+
